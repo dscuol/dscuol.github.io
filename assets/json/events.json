@@ -5,6 +5,13 @@
         "date":"28th August, 2020",
         "imgSrc":"./assets/img/Events/1.jpg",
         "fbLink":"https://www.facebook.com/developerstudentclubsuol/photos/a.100499095118753/100498491785480/"
+    },
+        {
+        "eventName": "Build Actions for Google",
+        "info":"In this session, we will teach you how to create your own actions for google assistant.",
+        "date":"13th September, 2020",
+        "imgSrc":"./assets/img/Events/1.jpg",
+        "fbLink":"https://www.facebook.com/events/1055850431524309/"
     }
 
 ]
