@@ -12,5 +12,19 @@
         "linkType": "Github"
       }
     ]
+  },
+    {
+    "fullName": "Machine Learning Course",
+    "bio": "Complete Machine Course from Scratch taught by DSC-UOL",
+    "category": "ML",
+    "profilePicture": "./assets/img/projects/ML.jpeg",
+
+    "links": [
+      {
+        "title": "Github",
+        "url": "https://github.com/dscuol/Machine-Learning-Course",
+        "linkType": "Github"
+      }
+    ]
   }
 ]
